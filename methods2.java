@@ -1,4 +1,4 @@
-public class Main {
+public class methods2{
 
     static int add(int a, int b) {
         return a + b;
